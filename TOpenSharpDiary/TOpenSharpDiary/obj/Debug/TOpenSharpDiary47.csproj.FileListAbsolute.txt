@@ -1,0 +1,10 @@
+D:\gitHome\TOpenDiary\bin\TOpenSharpDiary47.exe.config
+D:\gitHome\TOpenDiary\bin\TOpenSharpDiary47.exe
+D:\gitHome\TOpenDiary\bin\TOpenSharpDiary47.pdb
+D:\gitHome\TOpenDiary\TOpenSharpDiary\TOpenSharpDiary\obj\Debug\TOpenSharpDiary47.csprojAssemblyReference.cache
+D:\gitHome\TOpenDiary\TOpenSharpDiary\TOpenSharpDiary\obj\Debug\TOpenSharpDiary.FormMain.resources
+D:\gitHome\TOpenDiary\TOpenSharpDiary\TOpenSharpDiary\obj\Debug\TOpenSharpDiary.Properties.Resources.resources
+D:\gitHome\TOpenDiary\TOpenSharpDiary\TOpenSharpDiary\obj\Debug\TOpenSharpDiary47.csproj.GenerateResource.cache
+D:\gitHome\TOpenDiary\TOpenSharpDiary\TOpenSharpDiary\obj\Debug\TOpenSharpDiary47.csproj.CoreCompileInputs.cache
+D:\gitHome\TOpenDiary\TOpenSharpDiary\TOpenSharpDiary\obj\Debug\TOpenSharpDiary47.exe
+D:\gitHome\TOpenDiary\TOpenSharpDiary\TOpenSharpDiary\obj\Debug\TOpenSharpDiary47.pdb
